@@ -1,0 +1,80 @@
+[ 
+   	{ 
+    	"name":"Dave",
+    	"description":"The one and only Dave.",
+    	"superpower":"The bestest.",
+    	"ranking":"1",
+    	"image":"dave"
+   },
+   { 
+		"name":"j",
+		"description":"j",
+		"superpower":"j",
+		"ranking":"10",
+		"image":"j"
+   },
+   {
+   		"name":"Yeetman",
+		"description":"Has an amazing throwing arm.",
+		"superpower":"Yeet.",
+		"ranking":"17",
+		"image":"yeet"
+   },
+   {
+   		"name":"J.J.J.S.",
+		"description":"John Jacob Jingleheimer Schmidt",
+		"superpower":"Changes your legal name to John Jacob Jingleheimer Schmidt.",
+		"ranking":"67",
+		"image":"john"
+   },
+   {
+   		"name":"Waldo",
+		"description":"Where IS Waldo?",
+		"superpower":"Seriously, where is he?",
+		"ranking":"27",
+		"image":"waldo"
+   },
+   {
+   		"name":"Ironing Man",
+		"description":"Is not copyrighted, nor dead.",
+		"superpower":"Can iron clothing perfectly and efficiently.",
+		"ranking":"192",
+		"image":"ironing"
+   },
+   {
+   		"name":"Kunai With Chain",
+		"description":"KUNAI WITH CHAIN",
+		"superpower":"Activate 1 or both of these effects (simultaneously).\n● When an opponent's monster declares an attack: Target the attacking monster; change that target to Defense Position.\n● Target 1 face-up monster you control; equip this card to that target. It gains 500 ATK.",
+		"ranking":"45",
+		"image":"kunaiwithchain"
+   },
+   {
+   		"name":"Window Boy",
+		"description":"Good hygiene.",
+		"superpower":"Is see-through, and everyone ignores his existence.",
+		"ranking":"985",
+		"image":"windowboy"
+   },
+   {
+   		"name":"Generic Man",
+		"description":"Basically is a regular person.",
+		"superpower":"Has a 1 percent chance of not dying to a bullet, can also run at the average human's running speed.",
+		"ranking":"589",
+		"image":"man"
+   },
+	{
+		"name":"Giga Pudding",
+		"description":"Sentient Gigantic Pudding.",
+		"superpower":"Puddi!",
+		"ranking":"95",
+		"image":"gigapudding"
+	},
+	{
+		"name":"Lumpsucker",
+		"description":"An actual fish. Look it up.",
+		"superpower":"Uses its gland on it stomach to latch onto surfaces.",
+		"ranking":"59",
+		"image":"lumpsucker"
+
+	}
+]
