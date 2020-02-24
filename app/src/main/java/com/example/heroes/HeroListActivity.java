@@ -51,10 +51,9 @@ public class HeroListActivity extends AppCompatActivity {
 
         Gson gson = new Gson();
         Hero[] heroes =  gson.fromJson(sxml, Hero[].class);
-        List<Hero> heroesList = Arrays.asList(heroes);
-        Collections.sort(heroesList);
-        heroList = heroesList;
-        heroAdapter = new HeroAdapter(heroesList);
+        heroList = Arrays.asList(heroes);
+        Collections.sort(heroList);
+        heroAdapter = new HeroAdapter(heroList);
         mainListView.setAdapter(heroAdapter);
 
         if (getResources().getConfiguration().orientation == Configuration.ORIENTATION_LANDSCAPE) {
